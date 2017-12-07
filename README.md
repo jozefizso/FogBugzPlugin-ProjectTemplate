@@ -5,4 +5,4 @@
 
 ## License
 
-[MIT © 2017 Jozef Izso](LICENSE.txt)
+[MIT Â© 2017 Jozef Izso](LICENSE.txt)
